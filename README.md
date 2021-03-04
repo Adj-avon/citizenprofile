@@ -1,2 +1,2 @@
-# citizenprofile
+# citizen
 web portfolio
